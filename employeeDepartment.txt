@@ -1,0 +1,9 @@
+Dep.1, Marketing
+Dep.2, Financing
+Dep.3, Human Resources
+Dep.4, Production
+Dep.5, Development
+Dep.6, Quality Management
+Dep.7, Sales
+Dep.8, Research
+Dep.9, Customer Service
